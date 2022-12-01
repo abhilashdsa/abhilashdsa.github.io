@@ -15,7 +15,7 @@
 <div class="container bg-primary" >
     <div class="row"><br>
 		<div class="col-sm-6 text-center img-responsive">
-			<img src="images/kar.png" class="img-rounded" alt="Cinque Terre" width="204" height="186" data-toggle="tooltip" title="ಮೊದಲು ಮಾನವನಾಗು!!"> 
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlGl2UjKGM2E5MhAjssRQczOptmVOxYV9qQ&usqp=CAU" class="img-rounded" alt="Cinque Terre" width="204" height="186" data-toggle="tooltip" title="ಮೊದಲು ಮಾನವನಾಗು!!"> 
 		</div> <br>
 		
 		
