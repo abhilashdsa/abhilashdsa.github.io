@@ -178,7 +178,7 @@ Why? When someone coughs or sneezes they spray small liquid droplets from their 
 <footer class="container-fluid bg-4 text-center">
   <p>&copy;2020 mail to <a href="mailto:info@abhilashdsa.ga">info@abhilashdsa.ga</a></p> 
   <script type="text/javascript" src="https://www.counters-free.net/count/8q72"></script><br>
- <a href='http://www.counter-zaehler.de'>besucherzähler homepage</a> <script type='text/javascript' src='https://whomania.com/ctr?id=a3da3115efcb5ba760dced2e2bb02296355cf712'></script>
+ <a href='http://www.counter-zaehler.de'></a> <script type='text/javascript' src='https://whomania.com/ctr?id=a3da3115efcb5ba760dced2e2bb02296355cf712'></script>
 </footer>
 
                         
