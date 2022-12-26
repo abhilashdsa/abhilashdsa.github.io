@@ -1,0 +1,50 @@
+public class Overloading {  
+//instance variables of the class  
+int id;  
+String name;  
+  
+Overloading(){  
+System.out.println("this a default constructor is called");  
+}  
+  
+Overloading(int i, String n){  
+id = i;  
+name = n;  
+}  
+
+
+public int add(int x, int y) { return (x + y); }
+
+// Overloaded sum(). This sum takes three int parameters
+public int add(int x, int y, int z)
+{
+    return (x + y + z);
+}
+
+// Overloaded sum(). This sum takes two double
+// parameters
+public double add(double x, double y)
+{
+    return (x + y);
+}
+  
+public static void main(String[] args) {  
+//object creation  
+Overloading s = new Overloading();  
+System.out.println("\nDefault Constructor values: \n");  
+System.out.println("Student Id : "+s.id + "\nStudent Name : "+s.name);  
+  
+System.out.println("\nParameterized Constructor values: \n");  
+Overloading student = new Overloading(10, "David");  
+System.out.println("Student Id : "+student.id + "\nStudent Name : "+student.name +"\n\n");  
+
+System.out.println("simulating the method overloading concept \n\n");
+
+Overloading sum = new Overloading();
+System.out.println(sum.add(10, 20));
+System.out.println(sum.add(10, 20, 30));
+System.out.println(sum.add(10.5, 20.5));
+
+
+}  
+}  
